@@ -2,8 +2,4 @@
 TESTE 1 - Iniciando Curso
 TESTE 2 -  Nova Linha
 TESTE 3 - Novo dia
-<<<<<<< HEAD
 TESTE 4 - Finalizando Curso
-=======
-TESTE 4 - Novo Comentário
->>>>>>> daac81dd0a7b67628fa055cd8309b7bd8d379c48
